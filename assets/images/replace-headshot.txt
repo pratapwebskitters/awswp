@@ -1,0 +1,3 @@
+Place a headshot image file named headshot.jpg here.
+Recommended: optimized WebP or JPEG, 180x195px crop at 2x resolution.
+Update the image path in front-page.php if you use a different filename.
